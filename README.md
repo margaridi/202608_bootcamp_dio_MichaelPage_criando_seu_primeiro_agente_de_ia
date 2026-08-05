@@ -134,18 +134,18 @@ Abaixo, apresento o resumo das interações e os pontos que exigiram aperfeiçoa
    A implementação eficaz do STEAM e da Cultura Maker exige o uso de metodologias ativas, como a Aprendizagem Baseada em Projetos (ABP) e o Design Thinking 11, 20-22. Nestas práticas, o estudante é o protagonista do seu conhecimento, enquanto o professor atua como mediador, orientando a investigação e provocando reflexões críticas 23-25. A intencionalidade pedagógica é crucial para garantir que as atividades não sejam apenas passatempos técnicos, mas sim oportunidades de aprendizagem significativa alinhadas à BNCC 26-29.
 
    #### 4.2. Glossário 
-   ●	ABP (Aprendizagem Baseada em Projetos): Estratégia onde alunos investigam problemas complexos por um período, gerando um produto final 30, 31.
-   ●	Aprendizagem Significativa: Ocorre quando novos conhecimentos se conectam a conhecimentos prévios, adquirindo sentido para o aluno 1, 32, 33.
-   ●	Design Thinking: Abordagem de resolução de problemas focada no ser humano, passando por etapas como empatia, ideação e prototipagem 21, 34.
-   ●	DIY (Do It Yourself): "Faça você mesmo", a base do movimento maker que promove autonomia e criação 12, 13.
-   ●	Espaço Maker (Makerspace): Ambiente planejado para criação, equipado com ferramentas manuais e digitais    para fabricação de protótipos 15, 17.
-   ●	Fabricação Digital: Uso de máquinas controladas por computador (impressoras 3D, CNC) para materializar designs digitais 35, 36.
-   ●	Hands-on: Modelo de aprendizagem prática, caracterizado pelo envolvimento direto do aluno na execução de tarefas 37.   
-   ●	Interdisciplinaridade: Integração intencional de duas ou mais áreas do conhecimento para atingir objetivos comuns 10, 32, 38.
-   ●	Pensamento Computacional: Processo de resolução de problemas que utiliza lógica, algoritmos e decomposição 39-41.
-   ●	Protagonismo Estudantil: Condição em que o aluno lidera seu processo de aprendizagem, desenvolvendo autonomia e responsabilidade 42-44.
-   ●	Prototipagem: Criação de modelos preliminares para testar ideias antes da versão final 45, 46.
-   ●	Soft Skills: Habilidades socioemocionais e comportamentais, como colaboração, comunicação e pensamento crítico 7, 8, 47.
+   ●	ABP (Aprendizagem Baseada em Projetos): Estratégia onde alunos investigam problemas complexos por um período, gerando um produto final 30, 31.</n>
+   ●	Aprendizagem Significativa: Ocorre quando novos conhecimentos se conectam a conhecimentos prévios, adquirindo sentido para o aluno 1, 32, 33.</n>
+   ●	Design Thinking: Abordagem de resolução de problemas focada no ser humano, passando por etapas como empatia, ideação e prototipagem 21, 34.</n>
+   ●	DIY (Do It Yourself): "Faça você mesmo", a base do movimento maker que promove autonomia e criação 12, 13.</n>
+   ●	Espaço Maker (Makerspace): Ambiente planejado para criação, equipado com ferramentas manuais e digitais para fabricação de protótipos 15, 17.</n>
+   ●	Fabricação Digital: Uso de máquinas controladas por computador (impressoras 3D, CNC) para materializar designs digitais 35, 36.</n>
+   ●	Hands-on: Modelo de aprendizagem prática, caracterizado pelo envolvimento direto do aluno na execução de tarefas 37.</n>
+   ●	Interdisciplinaridade: Integração intencional de duas ou mais áreas do conhecimento para atingir objetivos comuns 10, 32, 38.</n>
+   ●	Pensamento Computacional: Processo de resolução de problemas que utiliza lógica, algoritmos e decomposição 39-41.</n>
+   ●	Protagonismo Estudantil: Condição em que o aluno lidera seu processo de aprendizagem, desenvolvendo autonomia e responsabilidade 42-44.</n>
+   ●	Prototipagem: Criação de modelos preliminares para testar ideias antes da versão final 45, 46.</n>
+   ●	Soft Skills: Habilidades socioemocionais e comportamentais, como colaboração, comunicação e pensamento crítico 7, 8, 47.</n>
 
    #### 4.3. Conjunto de Prompts para Revisão 
    Estes prompts podem ser reutilizados em sistemas de IA para aprofundar ou revisar o tema:
