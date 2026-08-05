@@ -175,4 +175,13 @@ Abaixo, apresento o resumo das interações e os pontos que exigiram aperfeiçoa
    2.	Prompt de Planejamento: "Com base na Cultura Maker, elabore uma sequência didática para o escolha o nível, ex: Ensino Médio que utilize a placa Micro:bit para resolver um problema ambiental da comunidade local. Inclua objetivos, materiais flexíveis e critérios de avaliação formativa."
    3.	Prompt de Análise Crítica: "Analise a relação entre a Competência 5 da BNCC (Cultura Digital) e as práticas de fabricação digital em um Espaço Maker. Como o professor pode garantir a intencionalidade pedagógica para evitar que a atividade se torne meramente técnica?"
    4.	Prompt de Avaliação: "Crie uma rubrica de avaliação para um projeto interdisciplinar STEAM que envolva as áreas de Matemática e Ciências. A rubrica deve pontuar o processo de prototipagem, a colaboração em grupo e a capacidade de argumentação científica dos alunos."
-   5.	Prompt para Gestores: "Elabore uma justificativa técnica de 3 parágrafos, utilizando linguagem científico-profissional, para convencer uma secretaria de educação sobre a importância da implementação de Laboratórios Maker como vetores de inovação e inclusão social."
+
+
+### 5. Material de Apoio Gerado
+
+   #### 5.1. 
+
+   <ins>O Conceito e a Evolução do STEAM</ins>
+   A abordagem STEAM é um acrônimo para Science, Technology, Engineering, Arts and Mathematics (Ciência, Tecnologia, Engenharia, Artes e Matemática) 1, 2. Surgiu originalmente nos Estados Unidos na década de 1990 como STEM, focando em carreiras de exatas para fortalecer a economia 1, 3, 4. A inclusão das Artes (o "A") ocorreu para incorporar a criatividade, o design e as humanidades, permitindo uma visão holística e o desenvolvimento de soluções mais éticas e empáticas 5-8. Mais do que um currículo, o STEAM é uma abordagem pedagógica que busca romper com o ensino fragmentado, conectando a escola a problemas do mundo real 9-11.
+
+   6.	Prompt para Gestores: "Elabore uma justificativa técnica de 3 parágrafos, utilizando linguagem científico-profissional, para convencer uma secretaria de educação sobre a importância da implementação de Laboratórios Maker como vetores de inovação e inclusão social."
