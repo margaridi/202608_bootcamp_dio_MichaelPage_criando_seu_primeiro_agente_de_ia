@@ -10,12 +10,37 @@
 
 ### 2. Curadoria de Fontes
 
-   Adicionamos 49 arquivos no projeto, todas públicas, de diferentes origens e períodos, conforme abaixo:
+   Foram adicionados 49 arquivos no projeto, todos de fontes públicas, de diferentes origens e períodos, conforme abaixo:
 
-   ##### Ciência e Robótica
-   FEIRA DE CIÊNCIAS 2024 - ANAIS.pdf
-   Robótica na educação básica e o currículo de ciências e matemática_ reflexões a partir de uma experiência concreta.pdf
+   #### Ciência e Robótica
+   01. <ins>FEIRA DE CIÊNCIAS 2024 - ANAIS.pdf</ins> - Anais da XVI FECITEC - Feira Estadual de Ciência e Tecnologia 2024 da Secretaria de Educação de Santa Catarina
+   02. <ins>Robótica na educação básica e o currículo de ciências e matemática_ reflexões a partir de uma experiência concreta.pdf</ins> - Artigo publicado no periódico <i>Ensino em Re-Vista vol.30 Uberlândia 2023 Epub 22-Dez-2023</i>
 
+   #### Educação Maker
+   03. <ins>Caderno de Orientações Educação Maker.pdf</ins> - Orientações da Secretaria de Educação de Santa Catarina para implantação de espaços makers na rede estadual de ensino - 2022
+   04. <ins>Maker Box Classes_Arquitetos da Esperança.pptx</ins> - Catálogo de atividades maker abordando as <i>Formas de Viver</i> conforme kit de projeto (https://www.makerboxbnc.com)
+   05. <ins>Maker Box Classes_Automata dos polinizadores.pptx</ins> - Catálogo de atividades maker abordando as <i>Formas de Conhecimento</i> 
+   06. <ins>Maker Box Classes_CIDADES INTELIGENTES.pptx</ins> - Catálogo de atividades maker 
+   07. <ins>Maker Box Classes_E no Escuro, Brinco de Que_.pptx</ins> - Catálogo de atividades maker abordando as <i>Formas de Beleza</i> 
+   08. <ins>Maker Box Classes_ENERGIZANTE.pptx</ins> - Catálogo de atividades maker 
+   09. <ins>Maker Box Classes_Eu Sou Perfeitamente Projetado.pptx</ins> - Catálogo de atividades maker abordando as <i>Formas de Comunidade</i> 
+   10. <ins>Maker Box Classes_Ligando os pontos e construindo arte.pptx</ins> - Catálogo de atividades maker abordando as <i>Formas de Conhecimento</i> 
+   11. <ins>Maker Box Classes_O PODER DA SUA ENERGIA.pptx</ins> - Catálogo de atividades maker 
+   12. <ins>Maker Box Classes_O Sopro da Floresta.pptx</ins> - Catálogo de atividades maker abordando as <i>Formas de Viver</i> 
+   13. <ins>Maker Box Classes_Recontando a Flora.pptx</ins> - Catálogo de atividades maker abordando as <i>Formas de Beleza</i> 
+   14. <ins>Makerbox - Ensino Medio - Plano01.pdf</ins> - Catálogo de atividades maker para o ensino médio 
+   15. <ins>Makerbox - Ensino Medio - Plano02.pdf</ins> - Catálogo de atividades maker para o ensino médio 
+   16. <ins>Makerbox - Ensino Medio - Plano03.pdf</ins> - Catálogo de atividades maker para o ensino médio 
+   17. <ins>Makerbox - Ensino Medio - Plano04.pdf</ins> - Catálogo de atividades maker para o ensino médio 
+   18. <ins>Makerbox - Ensino Medio - Plano05.pdf</ins> - Catálogo de atividades maker para o ensino médio 
+   19. <ins>Makerbox - Ensino Medio - Plano06.pdf</ins> - Catálogo de atividades maker para o ensino médio 
+   20. <ins>Makerbox - Ensino Medio - Plano07.pdf</ins> - Catálogo de atividades maker para o ensino médio 
+   21. <ins>Makerbox - Ensino Medio - Plano08.pdf</ins> - Catálogo de atividades maker para o ensino médio 
+   22. <ins>Makerbox - Ensino Medio - Plano09.pdf</ins> - Catálogo de atividades maker para o ensino médio 
+   23. <ins>Makerbox - Ensino Medio - Plano10.pdf</ins> - Catálogo de atividades maker para o ensino médio
+   24. <ins>Sequências . Maker.pdf</ins> - Catálogo de atividades maker da Secretaria de Educação de Santa Catarina 2022
+
+   
    Inicie seu README explicando qual foi o assunto de interesse escolhido para o seu caderno temático 
    e defina claramente quais são os seus objetivos de estudo com esse material.
 4. Curadoria de Fontes: Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que 
