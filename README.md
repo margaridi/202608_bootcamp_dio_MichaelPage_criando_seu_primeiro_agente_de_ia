@@ -182,5 +182,21 @@ Abaixo, apresento o resumo das interações e os pontos que exigiram aperfeiçoa
    #### 5.1. Apresentação Arquitetura da Inovação
    Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
 
+   #### 5.2. Apresentação Arquitetura da Inovação
+   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
    
-   6.	Prompt para Gestores: "Elabore uma justificativa técnica de 3 parágrafos, utilizando linguagem científico-profissional, para convencer uma secretaria de educação sobre a importância da implementação de Laboratórios Maker como vetores de inovação e inclusão social."
+   #### 5.3. Apresentação Arquitetura da Inovação
+   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
+   
+   #### 5.4. Apresentação Arquitetura da Inovação
+   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
+   
+   #### 5.5. Apresentação Arquitetura da Inovação
+   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
+   
+   #### 5.6. Apresentação Arquitetura da Inovação
+   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
+   
+   #### 5.7. Apresentação Arquitetura da Inovação
+   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
+   
