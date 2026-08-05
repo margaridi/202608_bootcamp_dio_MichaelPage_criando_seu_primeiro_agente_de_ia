@@ -179,9 +179,8 @@ Abaixo, apresento o resumo das interações e os pontos que exigiram aperfeiçoa
 
 ### 5. Material de Apoio Gerado
 
-   #### 5.1. 
+   #### 5.1. Apresentação Arquitetura da Inovação
+   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
 
-   <ins>O Conceito e a Evolução do STEAM</ins>
-   A abordagem STEAM é um acrônimo para Science, Technology, Engineering, Arts and Mathematics (Ciência, Tecnologia, Engenharia, Artes e Matemática) 1, 2. Surgiu originalmente nos Estados Unidos na década de 1990 como STEM, focando em carreiras de exatas para fortalecer a economia 1, 3, 4. A inclusão das Artes (o "A") ocorreu para incorporar a criatividade, o design e as humanidades, permitindo uma visão holística e o desenvolvimento de soluções mais éticas e empáticas 5-8. Mais do que um currículo, o STEAM é uma abordagem pedagógica que busca romper com o ensino fragmentado, conectando a escola a problemas do mundo real 9-11.
-
+   
    6.	Prompt para Gestores: "Elabore uma justificativa técnica de 3 parágrafos, utilizando linguagem científico-profissional, para convencer uma secretaria de educação sobre a importância da implementação de Laboratórios Maker como vetores de inovação e inclusão social."
