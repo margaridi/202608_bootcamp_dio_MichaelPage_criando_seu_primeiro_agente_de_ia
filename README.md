@@ -132,3 +132,25 @@ Abaixo, apresento o resumo das interações e os pontos que exigiram aperfeiçoa
 
    <ins>Metodologias Ativas e Mediação Docente</ins>
    A implementação eficaz do STEAM e da Cultura Maker exige o uso de metodologias ativas, como a Aprendizagem Baseada em Projetos (ABP) e o Design Thinking 11, 20-22. Nestas práticas, o estudante é o protagonista do seu conhecimento, enquanto o professor atua como mediador, orientando a investigação e provocando reflexões críticas 23-25. A intencionalidade pedagógica é crucial para garantir que as atividades não sejam apenas passatempos técnicos, mas sim oportunidades de aprendizagem significativa alinhadas à BNCC 26-29.
+
+   #### 4.2. Glossário 
+   ●	ABP (Aprendizagem Baseada em Projetos): Estratégia onde alunos investigam problemas complexos por um período, gerando um produto final 30, 31.
+   ●	Aprendizagem Significativa: Ocorre quando novos conhecimentos se conectam a conhecimentos prévios, adquirindo sentido para o aluno 1, 32, 33.
+   ●	Design Thinking: Abordagem de resolução de problemas focada no ser humano, passando por etapas como empatia, ideação e prototipagem 21, 34.
+   ●	DIY (Do It Yourself): "Faça você mesmo", a base do movimento maker que promove autonomia e criação 12, 13.
+   ●	Espaço Maker (Makerspace): Ambiente planejado para criação, equipado com ferramentas manuais e digitais    para fabricação de protótipos 15, 17.
+   ●	Fabricação Digital: Uso de máquinas controladas por computador (impressoras 3D, CNC) para materializar designs digitais 35, 36.
+   ●	Hands-on: Modelo de aprendizagem prática, caracterizado pelo envolvimento direto do aluno na execução de tarefas 37.   
+   ●	Interdisciplinaridade: Integração intencional de duas ou mais áreas do conhecimento para atingir objetivos comuns 10, 32, 38.
+   ●	Pensamento Computacional: Processo de resolução de problemas que utiliza lógica, algoritmos e decomposição 39-41.
+   ●	Protagonismo Estudantil: Condição em que o aluno lidera seu processo de aprendizagem, desenvolvendo autonomia e responsabilidade 42-44.
+   ●	Prototipagem: Criação de modelos preliminares para testar ideias antes da versão final 45, 46.
+   ●	Soft Skills: Habilidades socioemocionais e comportamentais, como colaboração, comunicação e pensamento crítico 7, 8, 47.
+
+   #### 4.3. Conjunto de Prompts para Revisão 
+   Estes prompts podem ser reutilizados em sistemas de IA para aprofundar ou revisar o tema:
+   1.	Prompt de Síntese: "Atue como um especialista em educação STEAM. Resuma os principais desafios da transição do modelo STEM para o STEAM, focando no papel das artes e do design na formação integral do estudante, conforme as teorias de Yakman e Pugliese."
+   2.	Prompt de Planejamento: "Com base na Cultura Maker, elabore uma sequência didática para o escolha o nível, ex: Ensino Médio que utilize a placa Micro:bit para resolver um problema ambiental da comunidade local. Inclua objetivos, materiais flexíveis e critérios de avaliação formativa."
+   3.	Prompt de Análise Crítica: "Analise a relação entre a Competência 5 da BNCC (Cultura Digital) e as práticas de fabricação digital em um Espaço Maker. Como o professor pode garantir a intencionalidade pedagógica para evitar que a atividade se torne meramente técnica?"
+   4.	Prompt de Avaliação: "Crie uma rubrica de avaliação para um projeto interdisciplinar STEAM que envolva as áreas de Matemática e Ciências. A rubrica deve pontuar o processo de prototipagem, a colaboração em grupo e a capacidade de argumentação científica dos alunos."
+   5.	Prompt para Gestores: "Elabore uma justificativa técnica de 3 parágrafos, utilizando linguagem científico-profissional, para convencer uma secretaria de educação sobre a importância da implementação de Laboratórios Maker como vetores de inovação e inclusão social."
