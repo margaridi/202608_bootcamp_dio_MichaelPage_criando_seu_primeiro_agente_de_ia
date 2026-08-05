@@ -40,6 +40,44 @@
    23. <ins>Makerbox - Ensino Medio - Plano10.pdf</ins> - Catálogo de atividades maker para o ensino médio
    24. <ins>Sequências . Maker.pdf</ins> - Catálogo de atividades maker da Secretaria de Educação de Santa Catarina 2022
 
+   #### Ensino Médio
+   25. <ins>Caderno de Orientações Humanas.pdf</ins> - Secretaria de Educação de Santa Catarina
+   26. <ins>Caderno de Orientações Novo Ensino Médio.pdf</ins> - Secretaria de Educação de Santa Catarina
+
+   #### Inovação SC 2024
+   27. <ins>INOVA SC 2024 vol. 1.pdf</ins> - Catálogo de atividades desenvolvidas nos laboratórios da rede estadual de ensino de Santa Catarina
+   28. <ins>INOVA SC 2024 vol. 2.pdf</ins> - Catálogo de atividades desenvolvidas nos laboratórios da rede estadual de ensino de Santa Catarina
+   29. <ins>INOVA SC 2024 vol. 3.pdf</ins> - Catálogo de atividades desenvolvidas nos laboratórios da rede estadual de ensino de Santa Catarina
+   30. <ins>INOVA SC 2024 vol. 4.pdf</ins> - Catálogo de atividades desenvolvidas nos laboratórios da rede estadual de ensino de Santa Catarina
+   31. <ins>INOVA SC 2024 vol. 5.pdf</ins> - Catálogo de atividades desenvolvidas nos laboratórios da rede estadual de ensino de Santa Catarina
+   32. <ins>INOVA SC 2024 vol. 6.pdf</ins> - Catálogo de atividades desenvolvidas nos laboratórios da rede estadual de ensino de Santa Catarina
+   33. <ins>INOVA SC 2024 vol. 7.pdf</ins> - Catálogo de atividades desenvolvidas nos laboratórios da rede estadual de ensino de Santa Catarina
+   34. <ins>INOVA SC 2024 vol. 8.pdf</ins> - Catálogo de atividades desenvolvidas nos laboratórios da rede estadual de ensino de Santa Catarina
+   35. <ins>INOVA SC 2024 vol. 9.pdf</ins> - Catálogo de atividades desenvolvidas nos laboratórios da rede estadual de ensino de Santa Catarina
+   36. <ins>INOVA SC 2024 vol. 10.FORMAÇÕES NTEs.pdf</ins> - Catálogo de atividades desenvolvidas pelos núcleos de tecnologia da rede estadual de ensino de Santa Catarina
+
+   #### Metodologia STEAM
+   37. <ins>educacao_steam.pdf</ins> - Educação STEAM - Insumos para a Construção de uma Agenda para o Brasil - CONFEDERAÇÃO NACIONAL DA INDÚSTRIA – CNI
+   38. <ins>educacao_steam_pesquisa_completa_item_430.pdf</ins> - Educação STEAM - Reflexões sobre a implementação em sala de aula, conexões com a BNCC e a formação de professores - Fundação ArcelorMittal
+   39. <ins>Metodologia STEAM_ 6 maneiras de aplicá-la em sala de aula.pdf</ins> - Khan Academy Blog
+   40. <ins>PT_Ebook-ESPACO-STEAM-NA-ESCOLA.pdf</ins> - Projeto STEAM na Escola - Escola Politécnica da Universidade de São Paulo
+   41. <ins>PT_guia_steam.pdf</ins> - Guia para a Prática da Educação em STEAM no Ensino Médio - Projeto STEAM Território São Paulo - Escola Politécnica da Universidade de São Paulo
+   42. <ins>STEAM E ENSINO MÉDIO PROJETOS DA REDE DE ENSINO MATO-GROSSENSE.pdf</ins> - Estudo apresentado no XXIX Seminário de Educação (SemiEdu 2021), organizado pela Universidade Federal de Mato Grosso (UFMT)
+
+   #### Miscellaneous
+   43. <ins>Ebook Trilhas.pdf</ins> - Trilhas de Aprofundamento no Currículo de Santa Catarina
+   44. <ins>Premissas e Configurações.docx</ins> - Regras de parametrização e delimitação inicial do escopo de atuação do agente de IA
+
+   #### Trabalhos Acadêmicos
+   45. <ins>127-7.pdf</ins> - APRENDIZAGEM ATIVA: A EDUCAÇÃO STEAM E O USO DAS TECNOLOGIAS DIGITAIS - Dissertação mestrado Universidade do Estado do Amazonas 2022
+   46. <ins>2022_emerson_dissertacao_vf.pdf</ins> - ATELIÊ DO SOM: proposta de uma estratégia baseada na Educação STEAM - Dissertação mestrado Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro 2022
+   47. <ins>2024_22004_2.pdf</ins> - Abordagem STEAM na Prática: Desenvolvimento de Material Didático com Foco no Meio Ambiente - Artigo publicado no Latin American Journal of Science Education - 2024
+   48. <ins>13536-57286-1-PB.pdf</ins> - Abordagem STEAM na educação básica brasileira: uma revisão de literatura - Artigo publicado no periódico Revista Tecnologia e Sociedade da Universidade Federal do Rio Grande do Norte (UFRN)
+   49. <ins>dissertacao_-_tatiane_maria_da_silva_dias.pdf</ins> - ABORDAGEM STEAM NA INTERFACE COM A BASE NACIONAL COMUM CURRICULAR (BNCC) - Dissertação mestrado Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso/IFMT
+   50. <ins>Premissas e Configurações.docx</ins> - Regras de parametrização e delimitação inicial do escopo de atuação do agente de IA
+
+
+
    
    Inicie seu README explicando qual foi o assunto de interesse escolhido para o seu caderno temático 
    e defina claramente quais são os seus objetivos de estudo com esse material.
