@@ -179,24 +179,24 @@ Abaixo, apresento o resumo das interações e os pontos que exigiram aperfeiçoa
 
 ### 5. Material de Apoio Gerado
 
-   #### 5.1. Apresentação Arquitetura da Inovação
+   #### 5.1. Apresentação Arquitetura da Inovação.pdf
    Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
 
-   #### 5.2. Apresentação Arquitetura da Inovação
-   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
+   #### 5.2. Caminhos_Práticos_para_Educação_STEAM.pdf
+   Apresentação do plano de transformação da sala de aula em um espaço de aprendizagem ativa, relacionando laboratórios com disciplina e destacando o perfil dos professores que vão disseminar e consolidar a cultura.
    
-   #### 5.3. Apresentação Arquitetura da Inovação
-   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
+   #### 5.3. Cultura_maker_da_sucata_ao_laser.m4a
+   Podcast discutindo as dificuldades de implementação da cultura maker e alternativas para a realidade brasileira.
    
-   #### 5.4. Apresentação Arquitetura da Inovação
-   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
+   #### 5.4. Cultura_Maker_e_STEAM.mp4
+   Vídeo explicando o que é cultura Maker e STEAM.
    
-   #### 5.5. Apresentação Arquitetura da Inovação
-   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
+   #### 5.5. Guia_Ferramentas_para_Aprendizagem_Ativa.png
+   Infográfico apresentando algumas ferramentas disponíveis para a Aprendizagem Ativa.
    
-   #### 5.6. Apresentação Arquitetura da Inovação
-   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
+   #### 5.6. Inovação_STEAM_e_Cultura_Maker.png
+   Infográfico demonstrando as dinâmicas da Aprendizagem Ativa como jornada, fluxos e atividades.
    
-   #### 5.7. Apresentação Arquitetura da Inovação
-   Esta apresentação descreve a Arquitetura da Inovação como uma estratégia de Estado para implementação da cultura STEAM e dos Espaços Maker na Educação Básica em Santa Catarina.
-   
+   #### 5.7. PromptDeConfiguração.docx
+   Prompt completo de configuração do agente como Especialista Facilitador em Educação STEAM e Cultura Maker.
+  
